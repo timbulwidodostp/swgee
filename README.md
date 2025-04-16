@@ -1,6 +1,8 @@
 # swgee
 Simulation Extrapolation Inverse Probability Weighted Generalized Estimating Equations Use gee (swgee) With (In) R Software
 
+https://www.youtube.com/watch?v=nZohqHuUwbE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
